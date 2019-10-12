@@ -24,11 +24,11 @@ pipeSouth.src = "images/pipeSouth.png";
 
 // some variables controlling the speed,score,gravity and position of bird and pipes
 
-var gap = 85;
+var gap = 100;
 var constant;
 var bX = 10;
 var bY = 150;
-var gravity = 1.5;
+var gravity = 1.8;
 var sc = 0;
 var t=1;
 // audio files
